@@ -1,0 +1,1 @@
+worker: python script_bot/manager_bot.py

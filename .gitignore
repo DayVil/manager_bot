@@ -1,0 +1,9 @@
+/venv/
+script_bot/.env
+/.idea/
+te.py
+cache.sqlite3
+test.py
+/dl/*
+/.vscode/
+/__pycache__/
